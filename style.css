@@ -17,3 +17,7 @@ body {
  background-color: #eee;
  height: 100vh;
 }
+.btn:hover{
+    transform: translateY(-.3rem);
+    
+}
