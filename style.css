@@ -17,3 +17,6 @@ body {
  background-color: #eee;
  height: 100vh;
 }
+.form-group{
+    font-size: 1.2em;
+}
